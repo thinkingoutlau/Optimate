@@ -1,7 +1,7 @@
 # [Optimate](https://optimate8.herokuapp.com/)
 
 <p align="center">
-https://user-images.githubusercontent.com/107082994/200971984-f3932f09-4d80-4591-b45d-c64828c6f0d7.mp4
+<video src="https://user-images.githubusercontent.com/107082994/200971984-f3932f09-4d80-4591-b45d-c64828c6f0d7.mp4"></video>
 </p>
 
 
