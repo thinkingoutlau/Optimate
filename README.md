@@ -1,6 +1,9 @@
 # [Optimate](https://optimate8.herokuapp.com/)
 https://www.youtube.com/watch?v=3A76b99-3qs
 
+https://user-images.githubusercontent.com/107082994/200971984-f3932f09-4d80-4591-b45d-c64828c6f0d7.mp4
+
+
 Are you sick of swiping your way into oblivion on the same old dating apps? Do you think selfies and witty taglines aren’t enough to point you to your perfect match? Have you felt that there must be SOMETHING out there that’s better? Optimate just might be exactly what you’ve been looking for. 
 
 Optimate takes all of the work that goes into dating apps off your hands. All you have to do is answer a few questions to set up your profile, wait for our special algorithm to pair you with your perfect matches, and start chatting!
