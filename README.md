@@ -2,7 +2,6 @@
 
 <p align="center">
 https://user-images.githubusercontent.com/107082994/200971984-f3932f09-4d80-4591-b45d-c64828c6f0d7.mp4
-If you would like to learn more, you can watch the full video here: https://www.youtube.com/watch?v=3A76b99-3qs :)
 </p>
 
 
