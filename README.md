@@ -3,7 +3,7 @@
 <p align="center">
 <video src="https://user-images.githubusercontent.com/107082994/200971984-f3932f09-4d80-4591-b45d-c64828c6f0d7.mp4"></video>
 </p>
-<p>If you would like to learn more, you can watch the full video here: https://www.youtube.com/watch?v=3A76b99-3qs :)</p>
+<p><b><i>If you would like to learn more, you can watch the full video here: https://www.youtube.com/watch?v=3A76b99-3qs :)</b></i></p>
 
 
 Are you sick of swiping your way into oblivion on the same old dating apps? Do you think selfies and witty taglines aren’t enough to point you to your perfect match? Have you felt that there must be SOMETHING out there that’s better? Optimate just might be exactly what you’ve been looking for. 
