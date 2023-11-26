@@ -44,4 +44,4 @@ Creating Optimate was a ton of fun, but it was certainly no walk in the park. Du
 - [Eve Cho](https://www.linkedin.com/in/echos-echo/)
 - [Cody Chan](https://www.linkedin.com/in/codylchan/)
 - [Cory Gold](https://www.linkedin.com/in/corygold/)
-- [Winnie Lau](https://www.linkedin.com/in/thinkingoutlau/)
+- [Winnie Lau](https://www.linkedin.com/in/winnielauuu/)
